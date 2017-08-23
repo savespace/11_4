@@ -1,0 +1,27 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "oop-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/11_4.git"
+  },
+  "keywords": [
+    "oop"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/11_4/issues"
+  },
+  "homepage": "https://github.com/savespace/11_4#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
